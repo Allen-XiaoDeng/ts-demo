@@ -87,4 +87,4 @@ const createCourseGoal = (title: string, description: string, date: Date): Cours
 };
 
 const names: Readonly<string[]> = ['Max', 'Amy'];
-names.push('Manu');
+// names.push('Manu');
